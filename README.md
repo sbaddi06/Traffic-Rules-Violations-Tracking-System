@@ -1,2 +1,4 @@
 # Traffic-Rules-Violations-Tracking-System
-Real Time Operating System (RTOS)
+Currently, traffic police and cameras are only deployed at traffic signals. This limits them to report violations only if they happen within the vicinity leaving room for many blind spots. Another constraint is the capacity of this personnel to quickly capture as many violations photographs as possible towards proof before the vehicle rushes away. Vehicles automatically identify and report traffic violations on the road around them as they move around, thus acting as crowd sourced law enforcement.
+## Solution Proposed
+Leverage front-mounted mobile phone/dedicated cameras on car windshield to identify, photograph, and report traffic violations anywhere on the road, thus reducing dependency on static cameras and human personnel. The project was built on an ARM7TDMI microcontroller board and the components used were LEDs, a buzzer, an LCD, and a UART.
